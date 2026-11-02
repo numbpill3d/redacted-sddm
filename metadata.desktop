@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=Redacted
+Description=Monochrome black login: a face under static and mosaic behind a censor bar that slips when you get the password wrong
+Author=splicer scorn (voidrane)
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Screenshot=preview.jpg
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=redacted
+Theme-API=2.0
+QtVersion=6
